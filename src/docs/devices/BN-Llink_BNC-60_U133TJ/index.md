@@ -15,3 +15,6 @@ standard: us
 | GPIO5  | HLWBL CF1                   |
 | GPIO12 | HLWBL SELi                  |
 | GPIO13 | LED2                        |
+
+Resource
+https://github.com/cbpowell/ESPSense/wiki/BN-Link-Power-Monitoring-Plug
